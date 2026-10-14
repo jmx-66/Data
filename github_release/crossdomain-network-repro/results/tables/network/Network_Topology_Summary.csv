@@ -1,0 +1,5 @@
+﻿Group,Nodes,Edges,Positive_Edges,Negative_Edges,Density,Avg_Degree,Clustering_Coef,Modularity
+LL,90,300,183,117,0.0749,6.67,0.4925,0.5599
+LM,92,445,250,195,0.1063,9.67,0.474,0.3911
+HL,93,350,193,157,0.0818,7.53,0.5645,0.593
+HM,88,290,143,147,0.0758,6.59,0.4761,0.5166
